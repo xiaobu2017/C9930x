@@ -11,7 +11,7 @@
 ### 系统功能，模块见下图，
 
 
-![image.png](http://124.222.106.130:8081/api/resource/getFile?name=articlePicture/Sara11731657387424111.png)
+![image.png](http://111.231.74.123:8081/api/resource/getFile?name=articlePicture/Sara11731657387424111.png)
 
 
 #### 主要分为管理员，医生，患者。满足基本的论坛系统，还提供了消息发送，关注等功能
@@ -75,15 +75,15 @@
 在线地址：
 后台管理系统：
 
-http://124.222.106.130:8081/xiaoyu/#/article/20
+http://111.231.74.123:8081/xiaoyu/#/article/20
 
 
 ## 系统截图
 
 
-http://124.222.106.130:8081/xiaoyu/#/article/20
+http://111.231.74.123:8081/xiaoyu/#/article/20
 
 
 ## 论文截图
 
-http://124.222.106.130:8081/xiaoyu/#/article/20
+http://111.231.74.123:8081/xiaoyu/#/article/20
